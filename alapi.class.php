@@ -6,7 +6,7 @@
  * @package  AuthorityLabs Partner API PHP Library
  * @author   Jonathan Kressaty <jonathan.kressaty@gmail.com> & Brian LaFrance <brian.lafrance@authoritylabs.com>
  * @license  http://creativecommons.org/licenses/MIT/ MIT
- * @link     https://github.com/kressaty/Authority-Labs-Partner-API-PHP-Library
+ * @link     https://github.com/blafrance/authoritylabs-partner-api-tools
  */
  
 class alPartner
