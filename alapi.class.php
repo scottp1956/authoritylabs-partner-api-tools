@@ -40,7 +40,7 @@ class alPartner
 		);
 
 		if($callback!=null){
-			$vars['callback'] = $callback;
+			$post_variables['callback'] = $callback;
 		}
 		
 		if($priority=="true"){
